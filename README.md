@@ -1,3 +1,2 @@
 # MR_AI_project
-com
-dfddfdfd
+안녕 난 동미대 학생이야
